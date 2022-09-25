@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tailwindcss build -i ./src/style.css -o ./public/main.css",
-    "watch": "tailwindcss build -i ./src/style.css -o ./public/main.css -w"
+    "build": "tailwindcss build -i ./src/input.css -o ./dist/main.css",
+    "watch": "tailwindcss build -i ./src/input.css -o ./dist/main.css -w"
   },
   "keywords": [],
   "author": "",
